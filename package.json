@@ -1,0 +1,19 @@
+{
+  "name": "mdb",
+  "version": "4.9.0",
+  "description": "",
+  "main": "js/mdb.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdesigntechnologies/mdb.git"
+  },
+  "author": "webdesigntechnologies <luquinhasbritogba@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdesigntechnologies/mdb/issues"
+  },
+  "homepage": "https://github.com/webdesigntechnologies/mdb#readme"
+}
